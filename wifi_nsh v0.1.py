@@ -17,6 +17,4 @@ for a in list_of_wifi_names:
     result=result[1:result.find("\r")]
     list_of_wifi_passwords.append(result)
 
-"done lol"
-
-#Thanks for watching ^.^
+print ("Wifi names:\n"+list_of_wifi_names+"\n\nWifi passwords:\n"+list_of_wifi_passwords)

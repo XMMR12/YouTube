@@ -20,5 +20,3 @@ for a in list_of_wifi_names:
 "done lol"
 
 #Thanks for watching ^.^
-
-the script will be uploaded to github
